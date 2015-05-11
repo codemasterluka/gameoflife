@@ -1,4 +1,5 @@
 from random import randint
+
 import copy
 import os
 from time import sleep
@@ -53,3 +54,5 @@ while(1):
     for j in range(10):
         print (present[j])
     sleep(1)
+    #hello bilo sta
+
