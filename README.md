@@ -14,3 +14,6 @@ ISSUES
       4. jednako 3. komsije = reprodukcija
   - [ ] write
 4. [ ]Swap
+5. 
+
+Trla baba lan
